@@ -428,9 +428,9 @@ An Super Easy Javascript String Framework To Access DuckDuckGo Public API
 
 ```
 
-Good Fork and Contribution is always appreciated!
+Good Fork and Contribution is always appreciated! :+1:
 
-Made with Love By Juthawong Naisanguansee From Bangkok , Thailand
+Made with Love By Juthawong Naisanguansee From Bangkok , Thailand  :heart: :thai_flags:
 
 Don't forget to visit my startup company website : http://www.ampareengine.com
-:+1: :love:
+
