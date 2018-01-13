@@ -433,4 +433,4 @@ Good Fork and Contribution is always appreciated!
 Made with Love By Juthawong Naisanguansee From Bangkok , Thailand
 
 Don't forget to visit my startup company website : http://www.ampareengine.com
-:+1:
+:+1: :love:
