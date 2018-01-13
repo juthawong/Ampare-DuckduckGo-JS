@@ -434,3 +434,5 @@ Made with Love By Juthawong Naisanguansee From Bangkok , Thailand  :heart: :thai
 
 Don't forget to visit my startup company website : http://www.ampareengine.com
 
+
+[![Download Ampare DuckDuckGo Javascript API](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/ampareduckduckgo-js/files/latest/download)
