@@ -1,6 +1,11 @@
 # Ampare-DuckduckGo-JS
 An Super Easy Javascript String Framework To Access DuckDuckGo Public API
 
+## NPM
+
+```bash
+npm install ampareduckduckgo-jsapi
+```
 
 ## How To Use
   Just Chain DuckDuckGo Method After Any String. It will return an Object.
